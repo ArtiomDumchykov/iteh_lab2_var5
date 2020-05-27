@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "5eb6e8d15e6d024686ee6d8a"
+  },
+  "name": "razan",
+  "price": 41,
+  "quantity": 15,
+  "vendor": "amd"
+},{
+  "_id": {
+    "$oid": "5eb6e9cc5e6d024686ee6d8b"
+  },
+  "name": "intel",
+  "price": 25,
+  "quantity": 0,
+  "vendor": "intel i 999"
+}]
