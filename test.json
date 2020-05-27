@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "5eae95d4c96e7c28811a1057"
+  },
+  "number": 1,
+  "year": 2015,
+  "guarantee": "yes",
+  "processor": "i9",
+  "RAM": 4,
+  "RD": 85,
+  "software": "linux"
+},{
+  "_id": {
+    "$oid": "5eae9685c96e7c28811a1058"
+  },
+  "number": 2,
+  "year": 2019,
+  "guarantee": "no",
+  "processor": "i7",
+  "RAM": 6,
+  "RD": 96,
+  "software": "windows"
+}]
